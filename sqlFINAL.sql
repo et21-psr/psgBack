@@ -1,0 +1,1 @@
+SELECT nombre_completo FROM psg_team.equipos inner join psg_team.jugador WHERE equipos.nombre=
